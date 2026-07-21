@@ -32,5 +32,6 @@ class A{
 
 		System.out.println("hii");
 
+		System.out.println("Java8");
 	}
 }
